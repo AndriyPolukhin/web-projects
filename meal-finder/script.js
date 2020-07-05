@@ -3,8 +3,8 @@ const search = document.getElementById('search');
 const submit = document.getElementById('submit');
 const random = document.getElementById('random');
 const mealsEl = document.getElementById('meals');
-const resultHeading = document.getElementById('result-heading');
 const single_mealEl = document.getElementById('single-meal');
+const resultHeading = document.getElementById('result-heading');
 
 // * @fn's:
 // * 1. Search Meal and fetch from API
